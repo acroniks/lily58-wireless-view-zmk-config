@@ -42,10 +42,10 @@
 
             label = "Lower";
             bindings = <
-&kp GRAVE     &trans           &trans       &trans    &trans      &trans                         &trans     &kp MINUS      &kp EQUAL     &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &trans
+&kp GRAVE     &trans           &trans       &trans    &trans      &trans                         &trans     &trans         &trans        &trans                &trans                 &trans
 &trans        &trans           &trans       &trans    &trans      &trans                         &trans     &kp MINUS      &kp EQUAL     &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp DELETE
 &kp CAPSLOCK  &kp EXCLAMATION  &kp AT_SIGN  &kp HASH  &kp DOLLAR  &kp PERCENT                    &kp CARET  &kp AMPERSAND  &kp ASTERISK  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &trans
-&trans        &trans           &trans       &trans    &trans      &trans       &trans    &trans  &trans     &kp MINUS      &kp EQUAL     &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &trans
+&trans        &trans           &trans       &trans    &trans      &trans       &trans    &trans  &trans     &trans         &trans        &trans                &trans                 &trans
                                             &trans    &trans      &trans       &trans    &trans  &trans     &trans         &trans
             >;
 
